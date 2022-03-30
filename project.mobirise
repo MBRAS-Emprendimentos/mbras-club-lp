@@ -65,8 +65,8 @@
     "site_lang": "pt-BR",
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W5NWWRK');</script>\n<!-- End Google Tag Manager -->",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W5NWWRK\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
-    "favicon": "@PROJECT_PATH@/assets/images/icone-mbras-favicon-1-128x128_1.png",
-    "mbrsiteDomain": "i6aojriwmh",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-mbras-1-128x128.png",
+    "mbrsiteDomain": "ztfml9xacn",
     "cookiesAlert": false,
     "gdpr": false
   },
