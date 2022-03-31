@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mbras Club",
-    "currentPage": "vendda.html",
+    "currentPage": "venda.html",
     "theme": {
       "name": "goalm5",
       "title": "GoalM5",
@@ -1973,7 +1973,7 @@
         }
       ]
     },
-    "vendda.html": {
+    "venda.html": {
       "settings": {
         "title": "Mbras Club - Venda seu Imóvel",
         "meta_descr": "MBRAS Club, a maneira mais prática, rápida e confortável de vender seu imóvel de luxo, em um club members exclusivo de imóveis de altíssimo padrão.",
